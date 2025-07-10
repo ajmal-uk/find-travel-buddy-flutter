@@ -10,7 +10,7 @@
 
 | AI Chat Page | User Profile | Database Sample |
 |--------------|--------------|-----------------|
-| ![AI Chat](https://ik.imagekit.io/uthakkan/ExploreTogether/user_ai_chat.jpeg) | ![Profile](https://ik.imagekit.io/uthakkan/ExploreTogether/user_profile.jpeg) | ![Users Collection](https://ik.imagekit.io/uthakkan/ExploreTogether/coleoction5.jpeg) |
+| ![AI Chat](https://ik.imagekit.io/uthakkan/ExploreTogether/user_ai_chat.jpeg) | ![Profile](https://ik.imagekit.io/uthakkan/ExploreTogether/user_profile.jpeg) | ![Users Collection](https://ik.imagekit.io/uthakkan/ExploreTogether/coleoction1.jpeg) |
 
 ## 📝 Abstract
 
