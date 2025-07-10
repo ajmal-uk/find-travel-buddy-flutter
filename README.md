@@ -52,6 +52,7 @@ These are hosted on ImageKit:
 - [Collections (Admin/Feedback)](https://ik.imagekit.io/uthakkan/ExploreTogether/coleoction1.jpeg)
 - [Collections (Packages/Posts)](https://ik.imagekit.io/uthakkan/ExploreTogether/coleoction2.jpeg)
 - [Collections (Agencies)](https://ik.imagekit.io/uthakkan/ExploreTogether/coleoction3.jpeg)
+- [Collections (Group)](https://ik.imagekit.io/uthakkan/ExploreTogether/coleoction4.jpeg)
 
 ## 🚀 Getting Started
 
