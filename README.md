@@ -33,26 +33,6 @@ The app features:
 - **AI Integration:** Gemini AI
 - **Architecture:** Modular, scalable with NoSQL schema
 
-## 🗂️ Folder Structure Highlights
-
-lib/
-├── admin/
-│ └── screens/
-├── services/
-│ ├── post/
-│ └── user/
-├── user_screens/
-│ ├── BuddyScreen/
-│ ├── chat_&_group/
-│ ├── uploadScreen/
-│ ├── userLoginSetup/
-│ └── userSearchScreen/
-├── utils/
-│ ├── encryption_decryption.dart
-│ ├── firebase_options.dart
-│ └── main.dart
-
-
 ## 🧠 Key Features
 
 - 🔍 **User Matchmaking:** Based on travel preferences and schedules.
