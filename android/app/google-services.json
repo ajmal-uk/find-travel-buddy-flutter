@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "282709194220",
+    "project_id": "exploretogether-b34d2",
+    "storage_bucket": "exploretogether-b34d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282709194220:android:1981b2d8a12e0dc1773cc9",
+        "android_client_info": {
+          "package_name": "com.example.explore_together"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB12Dk2lVzpnYuGisFv0BUqFTznBItUN9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282709194220:android:691da73823ecf397773cc9",
+        "android_client_info": {
+          "package_name": "com.example.explore_together_buddy_finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB12Dk2lVzpnYuGisFv0BUqFTznBItUN9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282709194220:android:5544b3d235d94c59773cc9",
+        "android_client_info": {
+          "package_name": "com.example.my_explore_together"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB12Dk2lVzpnYuGisFv0BUqFTznBItUN9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
