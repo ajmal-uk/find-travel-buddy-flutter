@@ -2,6 +2,8 @@
 
 **Explore Together** is a mobile application designed to bridge the gap for solo travelers by connecting them with like-minded individuals based on similar destinations and interests. Through intuitive features like trip planning, companion matching, and AI-powered support, the app enhances solo travel into a social, secure, and seamless experience.
 
+##Demo App Download Link : https://mega.nz/file/m043TLTJ#jTto6FOp2cy2GUL2wHM_o7kIqWZmi_2P0GPJlT7-IiE
+
 ## 📱 Screenshots
 
 | Login Page | Home Page | Admin Analytics |
