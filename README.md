@@ -74,5 +74,5 @@ Made with ❤️ to connect the world one traveler at a time.
 
 ---
 
-Let me know if you'd like this converted to a downloadable file, or want a GitHub repository layout suggestion
+Let me know if you'd like this converted to a downloadable file, or want a GitHub repository layout suggestion.
 
