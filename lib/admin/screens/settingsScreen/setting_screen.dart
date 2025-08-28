@@ -46,7 +46,7 @@ class SettingsPage extends StatelessWidget {
           ),
           ListTile(
             leading: ShaderMask(
-              shaderCallback: (bounds) => LinearGradient(
+              shaderCallback: (bounds) => const LinearGradient(
                 colors: [
                   Colors.red,
                   Colors.orange,
@@ -58,7 +58,7 @@ class SettingsPage extends StatelessWidget {
                 ],
                 tileMode: TileMode.mirror,
               ).createShader(bounds),
-              child: Icon(Icons.color_lens, color: Colors.white),
+              child: const Icon(Icons.color_lens, color: Colors.white),
             ),
             title: Row(
               children: [
@@ -90,7 +90,7 @@ class SettingsPage extends StatelessWidget {
             ),
           ),
           Divider(),
-          SizedBox(height: 10),
+          const SizedBox(height: 10),
           ListTile(
             leading: const Icon(Icons.logout, color: Colors.red),
             title: const Text(
