@@ -150,3 +150,5 @@ flutter run
 * 🤖 [Gemini AI](https://developers.google.com/ai) – AI travel assistant
 * 🖼 [Cloudinary](https://cloudinary.com/) – Media storage & optimization
 
+## 👨‍💻 Built with ❤️ by Ajmal UK
+
