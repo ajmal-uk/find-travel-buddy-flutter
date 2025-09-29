@@ -123,10 +123,11 @@ flutter run
 ## 🌐 Live Demo
 
 <p align="center">
-  <a href="https://mega.nz/file/m043TLTJ#jTto6FOp2cy2GUL2wHM_o7kIqWZmi_2P0GPJlT7-IiE" target="_blank">
-    <img src="https://img.shields.io/badge/🎯-Download%20Demo-App-blueviolet?style=for-the-badge&logo=appveyor" alt="Download Demo"/>
+  <a href="https://mega.nz/file/m043TLTJ#jTto6FOp2cy2GUL2wHM_o7kIqWZmi_2P0GPJlT7-IiE">
+    <img src="https://img.shields.io/badge/Download%20Demo-App-blueviolet?style=for-the-badge" alt="Download Demo"/>
   </a>
 </p>
+
 
 ---
 
